@@ -1,5 +1,5 @@
-<h1 align="center" style="border-bottom: none;">🎤 Speech to Text Demo </h1>
-<h3 align="center">Node.js sample applications that shows some of the the IBM Watson Speech to Text service features.</h3>
+<h1 align="center" style="border-bottom: none;"> Speech to Text Virginia Green </h1>
+<h3 align="center">Node.js interface using Watsons Speech-to-Text API that improves word identification for lawn care related topics to be used in a customer service oriented application.</h3>
 <p align="center">
   <a href="http://travis-ci.org/watson-developer-cloud/speech-to-text-nodejs">
     <img alt="Travis" src="https://travis-ci.org/watson-developer-cloud/speech-to-text-nodejs.svg?branch=master">
