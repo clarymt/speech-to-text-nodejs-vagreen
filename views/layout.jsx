@@ -23,13 +23,13 @@ export default function Layout({ children }) {
       </head>
       <body>
         <Header
-          mainBreadcrumbs="Speech to Text"
+          mainBreadcrumbs="Speech to Test"
           mainBreadcrumbsUrl="https://www.ibm.com/watson/services/speech-to-text/"
           subBreadcrumbs="Speech to Text Demo"
           subBreadcrumbsUrl="https://speech-to-text-demo.ng.bluemix.net"
         />
         <Jumbotron
-          serviceName="Speech to Text"
+          serviceName="Speech to Test"
           repository="https://github.com/watson-developer-cloud/speech-to-text-nodejs"
           documentation="https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted#gettingStarted"
           apiReference="https://cloud.ibm.com/apidocs/speech-to-text"
